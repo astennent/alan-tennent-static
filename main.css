@@ -1,0 +1,23 @@
+body {
+   font-family: 'Open Sans', sans-serif;
+   background-color:#FEFEFE;
+   color:#222222;
+}
+
+.content {
+   max-width:700px;
+   width:calc(100%-30px);
+   margin:30px;
+}
+
+a {
+   color: #3366FF;
+}
+
+a:hover {
+   color: #FFAAFF;
+}
+
+hr {
+    border-color: #999999;
+}
